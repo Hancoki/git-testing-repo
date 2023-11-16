@@ -1,2 +1,2 @@
-# git-testing-repo
- Just a testing repository for Git.
+# Description
+ This is just a testing repository for Git for learning its workflow.
